@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"哈羅德","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"哈羅德","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"","characterIndex":0,"characterName":"POKE","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"poke","traits":[],"initialLevel":1,"maxLevel":99,"name":"皮卡丘","nickname":"皮卡丘","note":"","profile":""},
 {"id":3,"battlerName":"","characterIndex":5,"characterName":"POKE","classId":3,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"poke","traits":[],"initialLevel":1,"maxLevel":99,"name":"小火龍","nickname":"小火龍","note":"","profile":""},
 {"id":4,"battlerName":"","characterIndex":1,"characterName":"POKE","classId":4,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"poke","traits":[],"initialLevel":1,"maxLevel":99,"name":"妙蛙種子","nickname":"妙蛙種子","note":"","profile":""},
